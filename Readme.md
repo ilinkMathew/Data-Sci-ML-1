@@ -1,5 +1,4 @@
-<h1>Machine Learning  Experiments using Python #1  <h1>
-
+<h1>Machine Learning  Experiments using Python #1  </h1>
 
 <h2>Overview </h2>
 
